@@ -1,0 +1,199 @@
+/***********/
+/* Widgets */
+/***********/
+
+/* Teaser */
+.immocaster_teaser_wrapper .immocaster_teaser_entry
+{
+	padding-bottom: 10px;
+	margin: 10px 0;
+	border-bottom: 1px dotted #CCC; 
+}
+
+.immocaster_teaser_wrapper .immocaster_teaser_entry:last-child
+{
+	border-bottom: none; 
+}
+
+.immocaster_teaser_entry_image img
+{
+	border: 1px solid #ccc;
+}
+
+.immocaster_teaser_entry address
+{
+	margin: 0;
+}
+
+/***********/
+/* Content */
+/***********/
+
+/* Resultlist */
+.immocaster_resultlist_wrapper
+{
+	margin: 10px 0;
+}
+
+.immocaster_resultlist_wrapper .immocaster_resultlist_entry
+{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #CCC; 
+}
+
+.immocaster_resultlist_wrapper .immocaster_resultlist_entry:last-child
+{
+	border-bottom: none; 
+}
+
+.immocaster_resultlist_entry_image
+{
+	float: left;
+	width: auto;
+}
+
+.immocaster_resultlist_entry_image img
+{
+	margin-right: 10px;
+}
+
+
+.immocaster_resultlist_entry_image img
+{
+	border: 1px solid #ccc;
+}
+
+.immocaster_resultlist_entry h2
+{
+	margin: 0;
+}
+
+.immocaster_resultlist_entry address
+{
+	margin: 0 0 10px 0;
+}
+
+.immocaster_Resultlist_clear
+{
+	font-size: 0;
+	height: 0px;
+	clear:left;
+}
+
+/* Object */
+/* There is also css in theme-files */
+.immocaster_servicelink a
+{
+	width: 80%;
+	text-align: center;
+	display: inline-block;
+	background: #efefef;
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	font-weight: bold;
+}
+
+.immocaster_servicelink a:hover
+{
+	background: #ccc;
+}
+
+.entry-image
+{
+	width: 100%;
+	text-align: center;
+}
+
+.entry-image img
+{
+	margin: 10px 0;
+}
+
+/* Gallery: Galleria */
+#exposegallery_wrapper_galleria
+{
+	margin: 10px 0;
+	width: 100%;
+	text-align: center;
+	background: #000;
+	border-radius: 10px;
+}
+
+#exposegallery_wrapper_galleria #exposegallery
+{
+	display: inline-block;
+	
+}
+
+/* Paginator */
+.immocaster_resultlist_paginator
+{
+	margin: 10px 0;
+}
+
+.immocaster_resultlist_paginator span.immocaster_pager
+{
+	border: none !important;
+}
+
+.immocaster_resultlist_paginator span
+{
+	display: inline-block;
+	width: 30px;
+	border: 1px solid #CCC;
+	margin: 0 1px;
+}
+
+.immocaster_resultlist_paginator span.immocaster_pager_current
+{
+	background: #ccc;
+}
+
+/* Contactbox */
+.immocaster_object_contactbox
+{
+	padding-top: 20px;
+	border-top: 1px solid #ccc;
+}
+
+.immocaster_object_contactbox .immocaster_object_contactlogo img
+{
+	width: 100px;
+}
+
+.immocaster_object_contactbox .immocaster_object_contactlogo
+{
+	vertical-align:top; 
+}
+
+.immocaster_object_contactbox .contactbox_infos
+{
+	width: 400px;
+	vertical-align:top; 
+}
+
+.immocaster_object_contactbox .contactbox_label
+{
+	display: inline-block;
+	font-weight: bold;
+}
+
+.immocaster_object_contactlogo,
+.contactbox_infos
+{
+	display: inline-block;
+	width: 130px;
+}
+
+/* Support */
+#immocaster_supportlink
+{
+	width: 100%;
+}
+
+#immocaster_supportlink p
+{
+	width: 100%;
+	text-align: center;
+}

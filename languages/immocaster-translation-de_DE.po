@@ -1,0 +1,763 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Immocaster v1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-12 13:08:26+0000\n"
+"Last-Translator: Norman Braun<office@immocaster.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: content_resultlist.php:11
+#@ immocaster-translation
+msgid "Immocaster Resultlist"
+msgstr "Immocaster Ergebnisliste"
+
+#: content_resultlist.php:32
+#@ immocaster-translation
+msgid "Enable resultlist"
+msgstr "Ergebnisliste aktivieren"
+
+#: content_resultlist.php:38
+#: widget_teaser.php:65
+#@ immocaster-translation
+msgid "Region"
+msgstr "Region"
+
+#: content_resultlist.php:44
+#: widget_teaser.php:74
+#@ immocaster-translation
+msgid "Apartment Rent"
+msgstr "Mietwohnungen"
+
+#: content_resultlist.php:45
+#: widget_teaser.php:77
+#@ immocaster-translation
+msgid "Apartment Buy"
+msgstr "Eigentumswohnungen"
+
+#: content_resultlist.php:46
+#: widget_teaser.php:80
+#@ immocaster-translation
+msgid "House Rent"
+msgstr "Haus mieten"
+
+#: content_resultlist.php:47
+#: widget_teaser.php:83
+#@ immocaster-translation
+msgid "House Buy"
+msgstr "Haus kaufen"
+
+#: content_resultlist.php:56
+#: widget_teaser.php:69
+#@ immocaster-translation
+msgid "Object-Type"
+msgstr "Objekt-Typ"
+
+#: content_resultlist.php:67
+#: widget_teaser.php:102
+#@ immocaster-translation
+msgid "Price (Low to high)"
+msgstr "Preis (Aufsteigend)"
+
+#: content_resultlist.php:68
+#: widget_teaser.php:105
+#@ immocaster-translation
+msgid "Price (High to low)"
+msgstr "Preis (Absteigend)"
+
+#: content_resultlist.php:71
+#: widget_teaser.php:97
+#@ immocaster-translation
+msgid "Sort by"
+msgstr "Sortiert nach"
+
+#: content_resultlist.php:83
+#: widget_teaser.php:108
+#@ immocaster-translation
+msgid "Price (min.)"
+msgstr "Preis (min.)"
+
+#: content_resultlist.php:84
+#: content_resultlist.php:88
+#: default/theme/object/standard.php:40
+#: default/theme/object/standard.php:42
+#: default/theme/object/standard.php:56
+#: default/theme/resultlist/standard.php:25
+#: default/theme/teaser/standard.php:30
+#: widget_teaser.php:111
+#: widget_teaser.php:113
+#@ immocaster-translation
+msgid "EUR"
+msgstr "EUR"
+
+#: content_resultlist.php:87
+#: widget_teaser.php:111
+#@ immocaster-translation
+msgid "Price (max.)"
+msgstr "Preis (max.)"
+
+#: content_resultlist.php:96
+#@ immocaster-translation
+msgid "Pro-Feature:"
+msgstr "Pro-Option:"
+
+#: content_resultlist.php:96
+#: widget_teaser.php:115
+#@ immocaster-translation
+msgid "Only objects from realtor"
+msgstr "Nur Maklerobjekte"
+
+#: content_resultlist.php:100
+#: widget_teaser.php:119
+#@ immocaster-translation
+msgid "Please first certify the application in settings!"
+msgstr "Bitte zuerst die Applikation unter Einstellungen zertifizieren!"
+
+#: content_resultlist.php:145
+#: widget_teaser.php:143
+#@ immocaster-translation
+msgid "results found for this settings."
+msgstr "Ergebnisse gefunden"
+
+#: default/theme/object/office.php:38
+#: default/theme/object/standard.php:40
+#: default/theme/object/store.php:38
+#: default/theme/resultlist/office.php:35
+#: default/theme/resultlist/store.php:35
+#@ immocaster-translation
+msgid "Rental price"
+msgstr "Mietpreis"
+
+#: default/theme/object/office.php:39
+#: default/theme/object/standard.php:42
+#: default/theme/object/store.php:39
+#: default/theme/resultlist/office.php:30
+#: default/theme/resultlist/store.php:30
+#@ immocaster-translation
+msgid "Purchase price"
+msgstr "Kaufpreis"
+
+#: default/theme/object/standard.php:44
+#@ immocaster-translation
+msgid "Number of rooms"
+msgstr "Zimmer"
+
+#: default/theme/object/standard.php:46
+#: default/theme/object/standard.php:54
+#: default/theme/resultlist/office.php:44
+#: default/theme/resultlist/standard.php:33
+#: default/theme/resultlist/store.php:44
+#: default/theme/teaser/standard.php:38
+#@ immocaster-translation
+msgid "m²"
+msgstr "m²"
+
+#: default/theme/object/standard.php:46
+#@ immocaster-translation
+msgid "Livingspace"
+msgstr "Wohnfläche ca."
+
+#: default/theme/object/standard.php:48
+#@ immocaster-translation
+msgid "Floor"
+msgstr "Etage"
+
+#: default/theme/object/standard.php:50
+#@ immocaster-translation
+msgid "Number of floors"
+msgstr "Etagenanzahl"
+
+#: default/theme/object/standard.php:52
+#@ immocaster-translation
+msgid "Apartmenttype"
+msgstr "Objekt-Typ"
+
+#: default/theme/object/standard.php:54
+#@ immocaster-translation
+msgid "Usable floorspace"
+msgstr "Nutzbare Grundfläche"
+
+#: default/theme/object/standard.php:56
+#@ immocaster-translation
+msgid "Total rent"
+msgstr "Gesamtmiete"
+
+#: default/theme/object/office.php:43
+#: default/theme/object/office.php:47
+#: default/theme/object/standard.php:58
+#: default/theme/object/standard.php:60
+#: default/theme/object/standard.php:62
+#: default/theme/object/standard.php:64
+#: default/theme/object/standard.php:68
+#: default/theme/object/standard.php:70
+#: default/theme/object/standard.php:72
+#: default/theme/object/standard.php:74
+#: default/theme/object/store.php:43
+#: default/theme/object/store.php:47
+#: default/theme/resultlist/office.php:50
+#: default/theme/resultlist/office.php:64
+#: default/theme/resultlist/office.php:71
+#: default/theme/resultlist/store.php:50
+#: default/theme/resultlist/store.php:64
+#: default/theme/resultlist/store.php:71
+#: language.php:22
+#@ immocaster-translation
+msgid "Yes"
+msgstr "Ja"
+
+#: default/theme/object/standard.php:58
+#@ immocaster-translation
+msgid "Cellar"
+msgstr "Keller"
+
+#: default/theme/object/standard.php:60
+#@ immocaster-translation
+msgid "Balcony"
+msgstr "Balkon"
+
+#: default/theme/object/office.php:47
+#: default/theme/object/standard.php:62
+#: default/theme/object/store.php:47
+#@ immocaster-translation
+msgid "Lift"
+msgstr "Fahrstuhl"
+
+#: default/theme/object/standard.php:64
+#@ immocaster-translation
+msgid "Garden"
+msgstr "Garten"
+
+#: default/theme/object/standard.php:66
+#@ immocaster-translation
+msgid "Pets allowed"
+msgstr "Haustiere erlaubt"
+
+#: default/theme/object/office.php:43
+#: default/theme/object/standard.php:68
+#: default/theme/object/store.php:43
+#@ immocaster-translation
+msgid "Kitchen"
+msgstr "Küche"
+
+#: default/theme/object/standard.php:70
+#@ immocaster-translation
+msgid "Handicapped accessible"
+msgstr "Barrierefrei"
+
+#: default/theme/object/standard.php:72
+#@ immocaster-translation
+msgid "Guesttoilet"
+msgstr "Gäste-WC"
+
+#: default/theme/object/standard.php:74
+#@ immocaster-translation
+msgid "Courtage"
+msgstr "Provision"
+
+#: default/theme/object/office.php:135
+#: default/theme/object/standard.php:165
+#: default/theme/object/store.php:135
+#@ immocaster-translation
+msgid "More infos & Contact"
+msgstr "Kontakt und Weitere Informationen"
+
+#: default/theme/resultlist/standard.php:24
+#: default/theme/teaser/standard.php:29
+#@ immocaster-translation
+msgid "Price"
+msgstr "Preis"
+
+#: default/theme/resultlist/standard.php:28
+#: default/theme/teaser/standard.php:33
+#@ immocaster-translation
+msgid "Rooms"
+msgstr "Zimmer"
+
+#: default/theme/resultlist/standard.php:32
+#: default/theme/teaser/standard.php:37
+#@ immocaster-translation
+msgid "Size"
+msgstr "Größe ca."
+
+#: immocaster.php:151
+#@ default
+msgid "You will find all news about immocaster on <a href=\"http://www.immocaster.com\" target=\"_blank\">www.immocaster.com</a>."
+msgstr ""
+
+#: immocaster.php:162
+#: immocaster.php:180
+#@ default
+#@ immocaster-translation
+msgid "Immocaster"
+msgstr "Immocaster"
+
+#: language.php:6
+#@ immocaster-translation
+msgid "Roof storey"
+msgstr "Dachgeschoß"
+
+#: language.php:7
+#@ immocaster-translation
+msgid "Loft"
+msgstr "Loft"
+
+#: language.php:8
+#@ immocaster-translation
+msgid "Maisonette"
+msgstr "Maisonette"
+
+#: language.php:9
+#@ immocaster-translation
+msgid "Penthouse"
+msgstr "Penthouse"
+
+#: language.php:10
+#@ immocaster-translation
+msgid "Terraced flat"
+msgstr "Terrassenwohnung"
+
+#: language.php:11
+#@ immocaster-translation
+msgid "Ground floor"
+msgstr "Erdgeschoss"
+
+#: language.php:12
+#@ immocaster-translation
+msgid "Apartment"
+msgstr "Wohnung"
+
+#: language.php:13
+#@ immocaster-translation
+msgid "Raised ground floor"
+msgstr "Hochparterre"
+
+#: language.php:14
+#@ immocaster-translation
+msgid "Half basement"
+msgstr "Souterrain"
+
+#: language.php:15
+#: language.php:29
+#@ immocaster-translation
+msgid "Other"
+msgstr "Sonstige"
+
+#: language.php:21
+#@ immocaster-translation
+msgid "By appointment"
+msgstr "Nach Absprache"
+
+#: default/theme/resultlist/office.php:57
+#: default/theme/resultlist/store.php:57
+#: language.php:23
+#@ immocaster-translation
+msgid "No"
+msgstr "Nein"
+
+#: language.php:26
+#@ immocaster-translation
+msgid "Description"
+msgstr "Beschreibung"
+
+#: language.php:27
+#@ immocaster-translation
+msgid "Furnishing"
+msgstr "Ausstattung"
+
+#: language.php:28
+#@ immocaster-translation
+msgid "Location"
+msgstr "Lage"
+
+#: pages/immobilienscout24.php:59
+#@ immocaster-translation
+msgid "Immocaster settings updated successful, but connection to ImmobilienScout24 failed."
+msgstr "Einstellungen erfolgreich geändert, aber die Verbindung zu ImmobilienScout24 ist nicht möglich."
+
+#: pages/immobilienscout24.php:67
+#@ immocaster-translation
+msgid "Immocaster settings updated successful and wordpress is connected to ImmobilienScout24."
+msgstr "Einstellungen erfolgreich geändert und die Verbindung zwischen Wordpress und ImmobilienScout24 wurde erfolgreich hergestellt."
+
+#: pages/immobilienscout24.php:93
+#: pages/main.php:21
+#@ immocaster-translation
+msgid "Please activate JavaScript in your browser, if it is deactivated."
+msgstr "Bitte aktivieren Sie JavaScript in Ihrem Browser, sofern JavaScript deaktiviert ist."
+
+#: pages/immobilienscout24.php:100
+#@ immocaster-translation
+msgid "ImmobilienScout24-Key"
+msgstr "ImmobilienScout24-Key"
+
+#: pages/immobilienscout24.php:111
+#@ immocaster-translation
+msgid "ImmobilienScout24-Secret"
+msgstr "ImmobilienScout24-Secret"
+
+#: pages/immobilienscout24.php:149
+#@ immocaster-translation
+msgid "ImmobilienScout24-User"
+msgstr "ImmobilienScout24-Benutzername"
+
+#: pages/immobilienscout24.php:166
+#, php-format
+#@ immocaster-translation
+msgid "No token! <a href=\"%s\" target=\"_self\">Certify your website</a> with <strong>\"%s\"</strong> as Username."
+msgstr "Token fehlt! <a href=\"%s\" target=\"_self\">Jetzt Website zertifizieren</a> mit <strong>\"%s\"</strong> als Benutzername."
+
+#: pages/immobilienscout24.php:171
+#, php-format
+#@ immocaster-translation
+msgid "Token registered! Delete Certify-Token <a href=\"%s\" target=\"_self\">here</a>."
+msgstr "Token gespeichert, Website zertifiziert! Jetzt Token <a href=\"%s\" target=\"_self\">löschen</a>."
+
+#: pages/immobilienscout24.php:250
+#@ immocaster-translation
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: widget_teaser.php:13
+#@ immocaster-translation
+msgid "Immocaster Teaser"
+msgstr "Immocaster Teaser"
+
+#: widget_teaser.php:14
+#@ immocaster-translation
+msgid "A very simple and short real estate list."
+msgstr "Eine eInfache und kurze Immobilien-Liste."
+
+#: widget_teaser.php:61
+#@ immocaster-translation
+msgid "Title"
+msgstr "Titel"
+
+#: widget_teaser.php:86
+#@ immocaster-translation
+msgid "Objectcount"
+msgstr "Objektanzahl"
+
+#: pages/immobilienscout24.php:128
+#@ immocaster-translation
+msgid "Connected to ImmobilienScout24"
+msgstr "Verbindung zu ImmobilienScout24 aktiv"
+
+#: pages/immobilienscout24.php:139
+#@ immocaster-translation
+msgid "Not connected to ImmobilienScout24"
+msgstr "Keine Verbindung zu ImmobilienScout24 möglich"
+
+#: widget_teaser.php:67
+#@ immocaster-translation
+msgid "<strong>Important:</strong> You have to enable JavaScript in your Browser to use autocompletion. This will build the correct region with the geo-code (e.g. Berlin | 1276003001). "
+msgstr "<strong>Wichtig:</strong> Für das Region-Feld müssen Sie JavaScript im Browser aktivieren, da die Autovervollständigung sonst nicht funktioniert. Diese wird benötigt um die korrekte Region mit GeoID zu erstellen (z.B. Berlin | 1276003001)."
+
+#: content_resultlist.php:91
+#@ immocaster-translation
+msgid "Basic-Feature:"
+msgstr "Basic-Erweiterung:"
+
+#: content_resultlist.php:91
+#@ immocaster-translation
+msgid "Search for special words"
+msgstr "Erweiterte Textsuche"
+
+#: content_resultlist.php:94
+#@ immocaster-translation
+msgid "(e.g. garden, pets, ...)"
+msgstr "(z.B. Garten, Haustiere, usw.)"
+
+#: pages/immobilienscout24.php:133
+#@ immocaster-translation
+msgid "Expose not supported by ImmobilienScout24"
+msgstr "Exposés (Erweiterte Objektdaten) werden für diesen Key nicht von ImmobilienScout24 ausgeliefert."
+
+#: pages/immobilienscout24.php:93
+#@ immocaster-translation
+msgid "If you want to use \"Immocaster\" with ImmobilienScout24 API you need a Key and a Secret by ImmobilienScout24. For this data you have to register <a href=\"http://rest.immobilienscout24.de/restapi/security/registration\">here</a>."
+msgstr "Wenn Sie Immocaster mit der ImmobilienScout24 API nutzen möchten, benötigen Sie einen Key und Secret von ImmobilienScout24. Diese Daten erhalten Sie direkt <a href=\"http://rest.immobilienscout24.de/restapi/security/registration\">hier</a> von ImmobilienScout24."
+
+#: pages/immobilienscout24.php:176
+#@ immocaster-translation
+msgid "<div class=\"immocaster_highlight_problem\">Expose-Support is disabled by ImmobilienScout24. If you work only with your own real estate objects you can contact ImmobilienScout24 to get another key to get also expose data.</div>"
+msgstr "<div class=\"immocaster_highlight_problem\">Exposes wurden nicht von ImmobilienScout24 für diesen Key freigegeben. Wenn Sie Exposes anzeigen lassen wollen wenden Sie sich bitte an ImmobilienScout24 um einen neuen Key zu erhalten, der für Exposes freigeschaltet ist.</div>"
+
+#: pages/immobilienscout24.php:214
+#@ immocaster-translation
+msgid "Show full data"
+msgstr "Exposes anzeigen"
+
+#: pages/immobilienscout24.php:217
+#@ immocaster-translation
+msgid "Immocaster does an automatic check if you are activated by ImmobilienScout24 to use the whole object data. Sometimes this check fail. So i you are shure you have these rights, please enable this. If you enable this and dont have the rights, it could be that this plugin crashes your wordpress."
+msgstr "Immocaster prüft automatisch, ob Sie von ImmobilienScout24 die Berechtigung haben Objektdaten anzeigen zu lassen. Diese automatische Prüfung kann in einigen Fällen nicht durchgeführt werden. Daher können Sie hier die Anzeige von Exposes erzwingen, wenn Sie sich sicher sind, dass Sie diese Berechtigung haben. Sollten Sie allerdings keine Berechtigung seitens ImmobilienScout24 haben und dennoch \\\"Expose-Anzeige erzwingen\\\" einschalten, kann es zu Problemen mit dem Plugin und dieser Wordpress-Version kommen."
+
+#: pages/immobilienscout24.php:225
+#@ immocaster-translation
+msgid "Use immocasters autocheck"
+msgstr "Automatische Prüfung"
+
+#: pages/immobilienscout24.php:233
+#@ immocaster-translation
+msgid "Yes. I'm shure I have the rights to show exposes (objects)."
+msgstr "Expose-Anzeige erzwingen"
+
+#: content_resultlist.php:41
+#@ immocaster-translation
+msgid "Show all regions"
+msgstr "Alle Regionen durchsuchen"
+
+#: content_resultlist.php:48
+#@ immocaster-translation
+msgid "Office Rent (Price per month)"
+msgstr "Büro Miete (Preis pro Monat)"
+
+#: content_resultlist.php:49
+#@ immocaster-translation
+msgid "Office Rent (Price per sqm)"
+msgstr "Büro Miete (Preis pro qm)"
+
+#: content_resultlist.php:50
+#@ immocaster-translation
+msgid "Office Buy"
+msgstr "Büro Kauf"
+
+#: default/theme/object/office.php:45
+#: default/theme/object/store.php:45
+#@ immocaster-translation
+msgid "Type of floor"
+msgstr "Art des Bodens"
+
+#: default/theme/resultlist/office.php:38
+#: default/theme/resultlist/store.php:38
+#@ immocaster-translation
+msgid "Rental price per sqm"
+msgstr "Mietpreis pro Quadratmeter"
+
+#: default/theme/resultlist/office.php:43
+#@ immocaster-translation
+msgid "Office space"
+msgstr "Bürofläche"
+
+#: default/theme/resultlist/office.php:49
+#: default/theme/resultlist/store.php:49
+#@ immocaster-translation
+msgid "Has courtage"
+msgstr "Mit Provision"
+
+#: default/theme/resultlist/office.php:56
+#: default/theme/resultlist/store.php:56
+#@ immocaster-translation
+msgid "Has Courtage"
+msgstr "Mit Provision"
+
+#: default/theme/resultlist/office.php:63
+#: default/theme/resultlist/store.php:63
+#@ immocaster-translation
+msgid "Buy"
+msgstr "Kauf"
+
+#: default/theme/resultlist/office.php:70
+#: default/theme/resultlist/store.php:70
+#@ immocaster-translation
+msgid "Rent"
+msgstr "Miete"
+
+#: content_resultlist.php:51
+#@ immocaster-translation
+msgid "Store Rent (Price per month)"
+msgstr "Geschäft mieten (Preis pro Monat)"
+
+#: content_resultlist.php:52
+#@ immocaster-translation
+msgid "Store Rent (Price per sqm)"
+msgstr "Geschäft mieten (Preis pro qm)"
+
+#: content_resultlist.php:53
+#@ immocaster-translation
+msgid "Store Buy"
+msgstr "Geschäft kaufen"
+
+#: default/theme/resultlist/store.php:43
+#@ immocaster-translation
+msgid "Store space"
+msgstr "Ladengröße"
+
+#: language.php:33
+#@ immocaster-translation
+msgid "No information"
+msgstr "Keine Information"
+
+#: language.php:34
+#@ immocaster-translation
+msgid "Concrete"
+msgstr "Beton"
+
+#: language.php:35
+#@ immocaster-translation
+msgid "Epoxyresin"
+msgstr "Epoxidharz"
+
+#: language.php:36
+#@ immocaster-translation
+msgid "Tiles"
+msgstr "Fliesen"
+
+#: language.php:37
+#@ immocaster-translation
+msgid "Planks"
+msgstr "Bretter"
+
+#: language.php:38
+#@ immocaster-translation
+msgid "Laminate"
+msgstr "Laminat"
+
+#: language.php:39
+#@ immocaster-translation
+msgid "Parquet"
+msgstr "Parkett"
+
+#: language.php:40
+#@ immocaster-translation
+msgid "PVC"
+msgstr "PVC"
+
+#: language.php:41
+#@ immocaster-translation
+msgid "Carpet"
+msgstr "Teppich"
+
+#: language.php:42
+#@ immocaster-translation
+msgid "Antistatic floor"
+msgstr "Antistatischer Boden"
+
+#: language.php:43
+#@ immocaster-translation
+msgid "Office carpet"
+msgstr "Büro-Teppich"
+
+#: language.php:44
+#@ immocaster-translation
+msgid "Stone"
+msgstr "Stein"
+
+#: language.php:45
+#@ immocaster-translation
+msgid "Customizable"
+msgstr "Anpassbar"
+
+#: language.php:46
+#@ immocaster-translation
+msgid "Without"
+msgstr "Ohne"
+
+#: default/theme/object/office.php:103
+#: default/theme/object/standard.php:127
+#: default/theme/object/store.php:103
+#@ immocaster-translation
+msgid "Contact person"
+msgstr "Ansprechpartner"
+
+#: default/theme/object/office.php:107
+#: default/theme/object/standard.php:131
+#: default/theme/object/store.php:107
+#@ immocaster-translation
+msgid "Homepage"
+msgstr "Homepage"
+
+#: default/theme/object/office.php:111
+#: default/theme/object/standard.php:135
+#: default/theme/object/store.php:111
+#@ immocaster-translation
+msgid "Mobile phone"
+msgstr "Mobil"
+
+#: default/theme/object/office.php:115
+#: default/theme/object/standard.php:147
+#: default/theme/object/store.php:115
+#@ immocaster-translation
+msgid "Street"
+msgstr "Straße"
+
+#: default/theme/object/office.php:119
+#: default/theme/object/standard.php:151
+#: default/theme/object/store.php:119
+#@ immocaster-translation
+msgid "City"
+msgstr "Stadt"
+
+#: default/theme/object/standard.php:139
+#@ immocaster-translation
+msgid "Phone"
+msgstr "Telefon"
+
+#: default/theme/object/standard.php:143
+#@ immocaster-translation
+msgid "Fax"
+msgstr "Fax"
+
+#: immocaster.php:181
+#@ immocaster-translation
+msgid "ImmobilienScout24"
+msgstr "ImmobilienScout24"
+
+#: language.php:30
+#@ immocaster-translation
+msgid "Contact"
+msgstr "Kontakt"
+
+#: pages/immobilienscout24.php:92
+#@ immocaster-translation
+msgid "ImmobilienScout24 Settings"
+msgstr "ImmobilienScout24 Einstellungen"
+
+#: pages/immobilienscout24.php:187
+#@ immocaster-translation
+msgid "Show contactbox on pages with objects"
+msgstr "Kontaktbox auf Objektseiten anzeigen"
+
+#: pages/immobilienscout24.php:198
+#@ immocaster-translation
+msgid "Dont show box"
+msgstr "Box nicht anzeigen"
+
+#: pages/immobilienscout24.php:206
+#@ immocaster-translation
+msgid "Show box"
+msgstr "Box anzeigen"
+
+#: pages/immobilienscout24.php:241
+#@ immocaster-translation
+msgid "Affiliate Referrer"
+msgstr "Referrer-Link"
+
+#: pages/immobilienscout24.php:244
+#@ immocaster-translation
+msgid "Only the referrer without full domain."
+msgstr "Nur der \\\"Referrer\\\" ohne die komplette Domain."
+
+#: pages/main.php:18
+#@ immocaster-translation
+msgid "Immocaster Help"
+msgstr "Immocaster Übersicht"
+
+#: pages/main.php:22
+#@ immocaster-translation
+msgid "If you need help, watch our tutorials or visit our forum."
+msgstr "Für Hilfe besucht bitte unser Forum oder unsere Tutorials."
+

@@ -1,0 +1,61 @@
+/* Query UI Autocomplete */
+* html .ui-autocomplete { width:1px; } /* without this, the menu expands to 100% in IE6 */
+.ui-autocomplete { height: 200px; overflow-y: scroll; overflow-x: hidden;}
+.ui-menu {
+	width: 170px;
+	height: 180px;
+}
+
+/* Text */
+.immocaster_text_warning
+{
+	font-weight: bold;
+	color: #F00;
+}
+
+.immocaster_highlight_problem
+{
+	font-weight: bold;
+	color: #F00;
+}
+
+.immocaster_highlight_success
+{
+	font-weight: bold;
+	color: #090;
+}
+
+/* Forms */
+.disabled_form_input
+{
+	background: #CCC !important;
+}
+
+/* Widgets */
+.immocaster_teaser_found_hits
+{
+	border-radius: 5px;
+	font-weight: bold;
+	padding: 5px;
+	background: #666;
+	color: #fff;
+}
+.immocaster_teaser_found_hits_number
+{
+	display: inline-block;
+}
+
+/* Resultlist */
+.immocaster_resultlist_found_hits
+{
+	margin: 10px 0;
+	border-radius: 5px;
+	font-weight: bold;
+	padding: 5px;
+	background: #666;
+	color: #fff;
+}
+.immocaster_resultlist_found_hits_number
+{
+	display: inline-block;
+}
